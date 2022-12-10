@@ -4,5 +4,6 @@ channels:
 dependencies:
   - numpy
   - matplotlib
+  - ipython
   - ipykernel
 prefix: /home/k/kouhen/nobackups/bin/miniconda3/envs/lwenv
